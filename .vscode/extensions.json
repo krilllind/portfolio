@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "abusaidm.html-snippets",
+    "Angular.ng-template",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "johnpapa.Angular2",
+    "mrmlnc.vscode-scss",
+    "PKief.material-icon-theme",
+    "wcwhitehead.bootstrap-3-snippets",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "esbenp.prettier-vscode"
+  ]
+}
